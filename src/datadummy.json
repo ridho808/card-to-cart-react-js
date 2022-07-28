@@ -1,0 +1,48 @@
+[
+    {
+    "id" : 1,
+    "title": "Air Jordan 12 Low",
+    "description": "elebrating 25 years of Jordan Brand in China, the Air Jordan 12 Low is sharper than ever",
+    "price": 549,
+    "brand": "NIKE",
+    "images": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/a02d7bc6-d288-4e4f-a7a7-f81f7492fefc/air-jordan-12-low-white-and-black-do8726-100-release-date.jpg"
+    },{
+    "id": 2,
+    "title": "Zoom LeBron 3",
+    "description": "Besides the court, the barbershop has always been a special place where LeBron",
+    "price": 899,
+    "brand": "NIKE",
+    "images": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/a029bfc2-0238-4c2b-bec7-2a41ca75bf43/zoom-lebron-3-black-and-university-red-do9354-001-release-date.jpg"
+    },
+    {"id": 3,
+    "title": "Air Jordan 5",
+    "description": "Bring some harmony to your 'fit with this fresh AJ5 colorway. Subtle splashes ",
+    "price": 1249,
+    "brand": "NIKE",
+    "images":"https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/06dc9cd8-a964-447f-81dc-0752a20f09a2/air-jordan-5-dark-concord-dd0587-141-release-date.jpg"
+    },{
+    "id": 4,
+    "title": "Yeezy Boost 380",
+    "description": "The adidas Yeezy Boost 380 ‘Onyx Non-Reflective’ delivers a subdued rendition of the minimalist lifestyle sneaker.",
+    "price": 280,
+    "brand": "ADIDAS",
+    "images":"https://cdn.shopify.com/s/files/1/0255/9429/8467/products/adidas-yeezy-boost-380-onyx-fz1270_1_bu2fbq_1800x1800.jpg?v=1609506935"
+
+    },
+    {
+    "id": 5,
+    "title": "PHARRELL X",
+    "description": "Pharrell Williams and adidas are back this season with the brand new Pharrell x adidas Hu NMD Gum Pack Black! Their latest",
+    "price": 499,
+    "brand": "ADIDAS",
+    "images":"https://cdn.shopify.com/s/files/1/0255/9429/8467/products/NMD-Hu-Trail-Pharrell-eg7836-Black_1_1000x1000.jpg?v=1599330676"
+    },
+    {
+    "id": 6,
+    "title": "ADIDAS NMD",
+    "description": "The NMD is adidas latest and greatest lifestyle silhouette. The all-new sneaker is kitted with a micro-engineered",
+    "price": 1749,
+    "brand": "ADIDAS",
+    "images":"https://cdn.shopify.com/s/files/1/0255/9429/8467/products/adidas-Originals-NMD-RUNNER-S79162-1_1000x1000.jpg?v=1599389591"
+    }
+]
